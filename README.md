@@ -1,6 +1,13 @@
 # Crack-Concrete-Image-Classification
 This repository contains code for a deep learning project that classifies images of cracked concrete using TensorFlow and Streamlit.
 
+**Data Source**
+The dataset used for this project is sourced from two research papers:
+
+"Performance Comparison of Pretrained Convolutional Neural Networks on Crack Detection in Buildings" by Ç.F. Özgenel and A. Gönenç Sorguç, presented at ISARC 2018 in Berlin.
+
+"Road Crack Detection Using Deep Convolutional Neural Network" by Lei Zhang, Fan Yang, Yimin Daniel Zhang, and Y.J. Zhang, published in the 2016 IEEE International Conference on Image Processing (ICIP). [DOI: 10.1109/ICIP.2016.7533052]
+
 **Data Preparation**
 The dataset is downloaded from a public URL using the requests library and stored in a RAR file.
 The downloaded RAR file is extracted, and any images with unsupported extensions are removed from the dataset.
