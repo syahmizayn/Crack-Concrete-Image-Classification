@@ -22,4 +22,5 @@ The app allows users to upload images and get predictions on whether they contai
 3. Save the trained model as crack_model.hdf5.
 4. Deploy the Streamlit app using streamlit run app.py and npx localtunnel -p 8501.
 5. Access the deployed app through the provided external URL.
+
 Enjoy using the Crack Concrete Image Classification app to predict cracked concrete in images!
