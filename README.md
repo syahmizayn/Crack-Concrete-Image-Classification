@@ -1,6 +1,8 @@
 # Crack-Concrete-Image-Classification
 This repository contains code for a deep learning project that classifies images of cracked concrete using TensorFlow and Streamlit.
 
+![image](https://github.com/syahmizayn/Crack-Concrete-Image-Classification/assets/127170997/f6dd50fa-e186-42da-94b2-4c0d8913cd56)
+
 **Data Source**
 
 The dataset used for this project is sourced from two research papers:
