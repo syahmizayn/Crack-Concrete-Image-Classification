@@ -1,0 +1,8 @@
+rarfile
+tensorflow
+opencv-python
+requests
+matplotlib
+keras
+streamlit
+pyngrok
